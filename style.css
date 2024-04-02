@@ -4,7 +4,7 @@
     font-family: Roboto;
 }
 .top {
-  background: #90c2ffc6;
+  background: #ff9090c6;
   height: 120px;
   color: rgb(44, 42, 108);
 }
@@ -137,7 +137,7 @@ nav .fa{
 
   .footer {
     color: #fff;
-    background: #01204E;
+    background: #3e0606;
     width: 100%;
     font-size: 15px;
     height: 370px;
