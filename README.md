@@ -1,1 +1,1 @@
-# rpxjgecxcse
+CSE Departmental Webpage
